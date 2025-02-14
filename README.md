@@ -1,11 +1,11 @@
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Suman Kshetri👋
 
 
 
 ## About Me
 <div align="center">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Man Coding GIF">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Man Coding GIF">
 </div>
 
 I'm a passionate developer interested in learning and exploring new technologies. My journey in the world of coding has been exciting, and I'm always eager to expand my knowledge and skills.
