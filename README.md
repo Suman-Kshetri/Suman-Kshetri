@@ -30,7 +30,7 @@ I'm a passionate developer interested in learning and exploring new technologies
 
 ## My GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Suman-Kshetri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Suman-Kshetri&show_icons=true&theme=radical)
 
 ## Let's Connect!
 
