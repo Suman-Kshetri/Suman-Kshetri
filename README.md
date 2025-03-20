@@ -30,7 +30,11 @@ I'm a passionate developer interested in learning and exploring new technologies
 
 ## My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Suman-Kshetri&show_icons=true&theme=radical)
+<a href="https://github.com/Suman-Kshetri">
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suman-Kshetri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suman-Kshetri&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suman-Kshetri&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 ## Let's Connect!
 
