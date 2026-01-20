@@ -53,11 +53,16 @@ I enjoy working on backend logic, authentication systems, and clean APIs while c
 
 ## My GitHub Stats:
 
-<a href="https://github.com/Suman-Kshetri" style={display:flex;flex-direction:row;gap:2em;}> 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suman-Kshetri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="20"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suman-Kshetri&layout=compact&langs_count=8&theme=algolia"/>
- </a>
+<p align="center">
+  <a href="https://github.com/Suman-Kshetri">
+    <img height="180em"
+         src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suman-Kshetri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em"
+         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suman-Kshetri&layout=compact&langs_count=8&theme=algolia" />
+  </a>
+  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=Suman-Kshetri&theme=algolia" alt="GitHub Streak" /></a>
+</p>
+
 
 ---
 
