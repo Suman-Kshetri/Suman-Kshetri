@@ -57,10 +57,12 @@ I enjoy working on backend logic, authentication systems, and clean APIs while c
   <a href="https://github.com/Suman-Kshetri">
     <img height="180em"
          src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suman-Kshetri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/Suman-Kshetri">
     <img height="180em"
          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suman-Kshetri&layout=compact&langs_count=8&theme=algolia" />
+  
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=Suman-Kshetri&theme=algolia" alt="GitHub Streak" /></a>
 </p>
 
 
