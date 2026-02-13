@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="820" height="580" viewBox="0 0 820 580" xmlns="http://www.w3.org/2000/svg">
+
+  <!--Window Shadow-->
+  <rect x="10" y="10" width="800" height="560" rx="14" fill="#000000" opacity="0.4"/>
+
+  <!--Terminal Background-->
+  <rect x="0" y="0" width="800" height="560" rx="14" fill="#0d1117"/>
+
+  <!--Header Bar-->
+  <rect width="800" height="45" rx="14" fill="#161b22"/>
+  <rect y="30" width="800" height="15" fill="#161b22"/>
+
+  <!--macOS Traffic Buttons-->
+  <circle cx="25" cy="22" r="6" fill="#ff5f56"/> 
+  <circle cx="45" cy="22" r="6" fill="#ffbd2e"/> 
+  <circle cx="65" cy="22" r="6" fill="#27c93f"/> 
+
+  <!--Terminal Title-->
+  <text x="400" y="27"
+        text-anchor="middle"
+        font-family="Consolas, Monaco, monospace"
+        font-size="13"
+        fill="#8b949e">
+    suman@dev: ~/profile
+  </text>
+
+  <!--Terminal Content-->
+  <text font-family="Consolas, Monaco, monospace" font-size="13">
+
+    <!-- Prompt Command -->
+    <tspan x="20" y="75" fill="#58a6ff">$</tspan>
+    <tspan fill="#c9d1d9"> cat about.ts</tspan>
+
+    <!-- Object Start -->
+    <tspan x="20" y="105" fill="#ff7b72">const</tspan>
+    <tspan fill="#79c0ff"> suman</tspan>
+    <tspan fill="#c9d1d9"> = {</tspan>
+
+    <!--Basic Info-->
+    <tspan x="20" y="130" fill="#79c0ff">  location</tspan>
+    <tspan fill="#c9d1d9">: </tspan>
+    <tspan fill="#a5d6ff">"Dharan, Nepal 🇳🇵"</tspan>
+    <tspan fill="#c9d1d9">,</tspan>
+
+    <tspan x="20" y="150" fill="#79c0ff">  role</tspan>
+    <tspan fill="#c9d1d9">: </tspan>
+    <tspan fill="#a5d6ff">"Computer Engineering Student"</tspan>
+    <tspan fill="#c9d1d9">,</tspan>
+
+    <!--Languages-->
+    <tspan x="20" y="170" fill="#79c0ff">  code</tspan>
+    <tspan fill="#c9d1d9">: [</tspan>
+    <tspan fill="#a5d6ff">"JavaScript", "TypeScript", "Python", "C", "C++"</tspan>
+    <tspan fill="#c9d1d9">],</tspan>
+
+    <!--Technologies-->
+    <tspan x="20" y="190" fill="#79c0ff">  technologies</tspan>
+    <tspan fill="#c9d1d9">: {</tspan>
+
+    <!-- Frontend Stack -->
+    <tspan x="20" y="210" fill="#79c0ff">    frontend</tspan>
+    <tspan fill="#c9d1d9">: [</tspan>
+    <tspan fill="#a5d6ff">"React", "Next.js", "TanStack Query", "Tailwind"</tspan>
+    <tspan fill="#c9d1d9">],</tspan>
+
+    <!-- Backend Stack -->
+    <tspan x="20" y="230" fill="#79c0ff">    backend</tspan>
+    <tspan fill="#c9d1d9">: [</tspan>
+    <tspan fill="#a5d6ff">"Node.js", "Express", "MongoDB", "PostgreSQL"</tspan>
+    <tspan fill="#c9d1d9">],</tspan>
+
+    <!-- DevOps Tools -->
+    <tspan x="20" y="250" fill="#79c0ff">    devOps</tspan>
+    <tspan fill="#c9d1d9">: [</tspan>
+    <tspan fill="#a5d6ff">"Docker", "Git", "GitHub Actions"</tspan>
+    <tspan fill="#c9d1d9">],</tspan>
+
+    <!-- Architecture -->
+    <tspan x="20" y="270" fill="#79c0ff">    architecture</tspan>
+    <tspan fill="#c9d1d9">: [</tspan>
+    <tspan fill="#a5d6ff">"REST APIs", "Microservices"</tspan>
+    <tspan fill="#c9d1d9">]</tspan>
+
+    <!-- Close Technologies -->
+    <tspan x="20" y="290" fill="#c9d1d9">  },</tspan>
+
+    <!--Current Focus-->
+    <tspan x="20" y="310" fill="#79c0ff">  currentFocus</tspan>
+    <tspan fill="#c9d1d9">: </tspan>
+    <tspan fill="#a5d6ff">"Production-ready auth systems &amp; modern React apps"</tspan>
+    <tspan fill="#c9d1d9">,</tspan>
+
+    <!--Learning-->
+    <tspan x="20" y="330" fill="#79c0ff">  learning</tspan>
+    <tspan fill="#c9d1d9">: [</tspan>
+    <tspan fill="#a5d6ff">"System Design", "Docker Orchestration", "Next.js Patterns"</tspan>
+    <tspan fill="#c9d1d9">],</tspan>
+
+    <!--Fun Fact-->
+    <tspan x="20" y="350" fill="#79c0ff">  collaboration</tspan>
+    <tspan fill="#c9d1d9">: </tspan>
+    <tspan fill="#a5d6ff">"Open to freelance projects"</tspan>
+    <tspan fill="#c9d1d9">,</tspan>
+
+    <tspan x="20" y="370" fill="#79c0ff">  funFact</tspan>
+    <tspan fill="#c9d1d9">: </tspan>
+    <tspan fill="#a5d6ff">"Great code is like a good joke -</tspan>
+    <tspan x="20" y="390" fill="#a5d6ff">              if you have to explain it, it's not that good!"</tspan>
+
+    <!-- Object End -->
+    <tspan x="20" y="410" fill="#c9d1d9">};</tspan>
+
+    <!-- Closing Command -->
+    <tspan x="20" y="440" fill="#58a6ff">$</tspan>
+    <tspan fill="#c9d1d9"> echo "Building the future, one commit at a time."</tspan>
+
+    <!-- Output -->
+    <tspan x="20" y="465" fill="#8b949e">
+      Building the future, one commit at a time.
+    </tspan>
+
+    <!-- Cursor -->
+    <tspan x="20" y="495" fill="#58a6ff">$</tspan>
+    <tspan fill="#ffffff"> █</tspan>
+
+  </text>
+</svg>
