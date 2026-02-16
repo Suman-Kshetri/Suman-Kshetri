@@ -1,27 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg width="820" height="580" viewBox="0 0 820 560" xmlns="http://www.w3.org/2000/svg">
 
   <!--Window Shadow-->
   <rect x="10" y="10" width="800" height="540" rx="14" fill="#000000" opacity="0.4"/>
 
-  <!--Terminal Background-->
-  <rect x="0" y="0" width="800" height="540" rx="14" fill="#0d1117"/>
+  <!--Terminal Background (Dracula)-->
+  <rect x="0" y="0" width="800" height="540" rx="14" fill="#282a36"/>
 
   <!--Header Bar-->
-  <rect width="800" height="45" rx="14" fill="#161b22"/>
-  <rect y="30" width="800" height="15" fill="#161b22"/>
+  <rect width="800" height="45" rx="14" fill="#44475a"/>
+  <rect y="30" width="800" height="15" fill="#44475a"/>
 
   <!--macOS Traffic Buttons-->
   <circle cx="25" cy="22" r="6" fill="#ff5f56"/> 
-  <circle cx="45" cy="22" r="6" fill="#ffbd2e"/> 
-  <circle cx="65" cy="22" r="6" fill="#27c93f"/> 
+  <circle cx="45" cy="22" r="6" fill="#ffb86c"/> 
+  <circle cx="65" cy="22" r="6" fill="#50fa7b"/> 
 
   <!--Terminal Title-->
   <text x="400" y="27"
         text-anchor="middle"
         font-family="Consolas, Monaco, monospace"
         font-size="13"
-        fill="#8b949e">
+        fill="#f8f8f2">
     suman@dev: ~/profile
   </text>
 
@@ -29,100 +28,88 @@
   <text font-family="Consolas, Monaco, monospace" font-size="13">
 
     <!-- Prompt Command -->
-    <tspan x="20" y="75" fill="#58a6ff">$</tspan>
-    <tspan fill="#c9d1d9"> cat about.ts</tspan>
+    <tspan x="20" y="75" fill="#8be9fd">$</tspan>
+    <tspan fill="#f8f8f2"> cat about.ts</tspan>
 
     <!-- Object Start -->
-    <tspan x="20" y="105" fill="#ff7b72">const</tspan>
-    <tspan fill="#79c0ff"> suman</tspan>
-    <tspan fill="#c9d1d9"> = {</tspan>
+    <tspan x="20" y="105" fill="#ff79c6">const</tspan>
+    <tspan fill="#bd93f9"> suman</tspan>
+    <tspan fill="#f8f8f2"> = {</tspan>
 
     <!--Basic Info-->
-    <tspan x="20" y="130" fill="#79c0ff">  location</tspan>
-    <tspan fill="#c9d1d9">: </tspan>
-    <tspan fill="#a5d6ff">"Dharan, Nepal 🇳🇵"</tspan>
-    <tspan fill="#c9d1d9">,</tspan>
+    <tspan x="20" y="130" fill="#bd93f9">  location</tspan>
+    <tspan fill="#f8f8f2">: </tspan>
+    <tspan fill="#50fa7b">"Dharan, Nepal 🇳🇵"</tspan>
+    <tspan fill="#f8f8f2">,</tspan>
 
-    <tspan x="20" y="150" fill="#79c0ff">  role</tspan>
-    <tspan fill="#c9d1d9">: </tspan>
-    <tspan fill="#a5d6ff">"Computer Engineering Student"</tspan>
-    <tspan fill="#c9d1d9">,</tspan>
+    <tspan x="20" y="150" fill="#bd93f9">  role</tspan>
+    <tspan fill="#f8f8f2">: </tspan>
+    <tspan fill="#50fa7b">"Computer Engineering Student"</tspan>
+    <tspan fill="#f8f8f2">,</tspan>
 
     <!--Languages-->
-    <tspan x="20" y="170" fill="#79c0ff">  code</tspan>
-    <tspan fill="#c9d1d9">: [</tspan>
-    <tspan fill="#a5d6ff">"JavaScript", "TypeScript", "Python", "C", "C++"</tspan>
-    <tspan fill="#c9d1d9">],</tspan>
+    <tspan x="20" y="170" fill="#bd93f9">  code</tspan>
+    <tspan fill="#f8f8f2">: [</tspan>
+    <tspan fill="#8be9fd">"JavaScript", "TypeScript", "Python", "C", "C++"</tspan>
+    <tspan fill="#f8f8f2">],</tspan>
 
     <!--Technologies-->
-    <tspan x="20" y="190" fill="#79c0ff">  technologies</tspan>
-    <tspan fill="#c9d1d9">: {</tspan>
+    <tspan x="20" y="190" fill="#bd93f9">  technologies</tspan>
+    <tspan fill="#f8f8f2">: {</tspan>
 
-    <!-- Frontend Stack -->
-    <tspan x="20" y="210" fill="#79c0ff">    frontend</tspan>
-    <tspan fill="#c9d1d9">: [</tspan>
-    <tspan fill="#a5d6ff">"React", "Next.js", "TanStack Query", "Tailwind"</tspan>
-    <tspan fill="#c9d1d9">],</tspan>
+    <tspan x="20" y="210" fill="#bd93f9">    frontend</tspan>
+    <tspan fill="#f8f8f2">: [</tspan>
+    <tspan fill="#8be9fd">"React", "Next.js", "TanStack Query", "Tailwind"</tspan>
+    <tspan fill="#f8f8f2">],</tspan>
 
-    <!-- Backend Stack -->
-    <tspan x="20" y="230" fill="#79c0ff">    backend</tspan>
-    <tspan fill="#c9d1d9">: [</tspan>
-    <tspan fill="#a5d6ff">"Node.js", "Express", "MongoDB"</tspan>
-    <tspan fill="#c9d1d9">],</tspan>
+    <tspan x="20" y="230" fill="#bd93f9">    backend</tspan>
+    <tspan fill="#f8f8f2">: [</tspan>
+    <tspan fill="#8be9fd">"Node.js", "Express", "MongoDB"</tspan>
+    <tspan fill="#f8f8f2">],</tspan>
 
-    <!-- DevOps Tools -->
-    <tspan x="20" y="250" fill="#79c0ff">    devOps</tspan>
-    <tspan fill="#c9d1d9">: [</tspan>
-    <tspan fill="#a5d6ff">"Docker", "Git", "GitHub Actions"</tspan>
-    <tspan fill="#c9d1d9">],</tspan>
+    <tspan x="20" y="250" fill="#bd93f9">    devOps</tspan>
+    <tspan fill="#f8f8f2">: [</tspan>
+    <tspan fill="#ffb86c">"Docker", "Git", "GitHub Actions"</tspan>
+    <tspan fill="#f8f8f2">],</tspan>
 
-    <!-- Architecture -->
-    <tspan x="20" y="270" fill="#79c0ff">    architecture</tspan>
-    <tspan fill="#c9d1d9">: [</tspan>
-    <tspan fill="#a5d6ff">"REST APIs", "Microservices"</tspan>
-    <tspan fill="#c9d1d9">]</tspan>
+    <tspan x="20" y="270" fill="#bd93f9">    architecture</tspan>
+    <tspan fill="#f8f8f2">: [</tspan>
+    <tspan fill="#ffb86c">"REST APIs", "Microservices"</tspan>
+    <tspan fill="#f8f8f2">]</tspan>
 
-    <!-- Close Technologies -->
-    <tspan x="20" y="290" fill="#c9d1d9">  },</tspan>
+    <tspan x="20" y="290" fill="#f8f8f2">  },</tspan>
 
-    <!--Current Focus-->
-    <tspan x="20" y="310" fill="#79c0ff">  currentFocus</tspan>
-    <tspan fill="#c9d1d9">: </tspan>
-    <tspan fill="#a5d6ff">"Production-ready auth systems &amp; modern React apps"</tspan>
-    <tspan fill="#c9d1d9">,</tspan>
+    <tspan x="20" y="310" fill="#bd93f9">  currentFocus</tspan>
+    <tspan fill="#f8f8f2">: </tspan>
+    <tspan fill="#50fa7b">"Production-ready auth systems &amp; modern React apps"</tspan>
+    <tspan fill="#f8f8f2">,</tspan>
 
-    <!--Learning-->
-    <tspan x="20" y="330" fill="#79c0ff">  learning</tspan>
-    <tspan fill="#c9d1d9">: [</tspan>
-    <tspan fill="#a5d6ff">"System Design", "Docker Orchestration", "Next.js Patterns"</tspan>
-    <tspan fill="#c9d1d9">],</tspan>
+    <tspan x="20" y="330" fill="#bd93f9">  learning</tspan>
+    <tspan fill="#f8f8f2">: [</tspan>
+    <tspan fill="#8be9fd">"System Design", "Docker Orchestration", "Next.js Patterns"</tspan>
+    <tspan fill="#f8f8f2">],</tspan>
 
-    <!--Fun Fact-->
-    <tspan x="20" y="350" fill="#79c0ff">  collaboration</tspan>
-    <tspan fill="#c9d1d9">: </tspan>
-    <tspan fill="#a5d6ff">"Open to freelance projects"</tspan>
-    <tspan fill="#c9d1d9">,</tspan>
+    <tspan x="20" y="350" fill="#bd93f9">  collaboration</tspan>
+    <tspan fill="#f8f8f2">: </tspan>
+    <tspan fill="#50fa7b">"Open to freelance projects"</tspan>
+    <tspan fill="#f8f8f2">,</tspan>
 
-    <tspan x="20" y="370" fill="#79c0ff">  funFact</tspan>
-    <tspan fill="#c9d1d9">: </tspan>
-    <tspan fill="#a5d6ff">"Great code is like a good joke -</tspan>
-    <tspan x="20" y="390" fill="#a5d6ff">              if you have to explain it, it's not that good!"</tspan>
+    <tspan x="20" y="370" fill="#bd93f9">  funFact</tspan>
+    <tspan fill="#f8f8f2">: </tspan>
+    <tspan fill="#ff79c6">"Great code is like a good joke -</tspan>
+    <tspan x="20" y="390" fill="#ff79c6">              if you have to explain it, it's not that good!"</tspan>
 
-    <!-- Object End -->
-    <tspan x="20" y="410" fill="#c9d1d9">};</tspan>
+    <tspan x="20" y="410" fill="#f8f8f2">};</tspan>
 
-    <!-- Closing Command -->
-    <tspan x="20" y="440" fill="#58a6ff">$</tspan>
-    <tspan fill="#c9d1d9"> echo "Building the future, one commit at a time."</tspan>
+    <tspan x="20" y="440" fill="#8be9fd">$</tspan>
+    <tspan fill="#f8f8f2"> echo "Building the future, one commit at a time."</tspan>
 
-    <!-- Output -->
-    <tspan x="20" y="465" fill="#8b949e">
+    <tspan x="20" y="465" fill="#f8f8f2">
       Building the future, one commit at a time.
     </tspan>
 
-    <!-- Cursor -->
-    <tspan x="20" y="495" fill="#58a6ff">$</tspan>
-    <tspan fill="#ffffff"> █</tspan>
+    <tspan x="20" y="495" fill="#8be9fd">$</tspan>
+    <tspan fill="#f8f8f2"> █</tspan>
 
   </text>
 </svg>
