@@ -17,7 +17,7 @@
   <a href="mailto:ksuman20601028@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://sumankshetri.com.np">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
